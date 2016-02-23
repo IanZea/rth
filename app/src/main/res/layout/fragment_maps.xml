@@ -1,0 +1,214 @@
+<com.sothree.slidinguppanel.SlidingUpPanelLayout xmlns:sothree="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/sliding_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="bottom"
+    sothree:umanoPanelHeight="85dp"
+    sothree:umanoFadeColor="#3333"
+    sothree:umanoShadowHeight="4dp">
+
+    <RelativeLayout
+        android:layout_height="match_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:background="@color/ladyOphelia">
+
+        <com.google.android.gms.maps.MapView
+        android:id="@+id/manualTourMap"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+        <!--<TextView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:text="New Text"
+            android:background="@color/trueTeal"
+            android:layout_below="@id/manualTourMap"
+            android:id="@+id/textView2"
+            android:textIsSelectable="false"
+            android:textSize="35dp" />
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/locationOfTouch"
+            android:textSize="25dp"
+            android:textColor="#fff"
+            android:layout_marginTop="44dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignRight="@+id/currentLocationUpdate"
+            android:layout_alignEnd="@+id/currentLocationUpdate" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/currentLocationUpdate"
+            android:textSize="20dp"
+            android:textColor="#fff"
+            android:layout_marginBottom="60dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="bottom|end"
+            android:src="@mipmap/ic_gps_icon"
+            android:background="@color/morningOnTheMoor"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_margin="25dp" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:background="#01335f"
+            android:id="@+id/addNewMarkerLayout"
+            android:visibility="gone">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:id="@+id/linearLayout">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="New Text"
+                    android:textColor="#f8d93c"
+                    android:textSize="15dp"
+                    android:id="@+id/clickLocationTextAddMarker"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="center"
+                    android:paddingTop="10dp"
+                    android:layout_weight=".4" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="#f8d93c"
+                    android:text="Add Marker"
+                    android:id="@+id/addMarkerButton"
+                    android:layout_alignParentBottom="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginBottom="5dp"
+                    android:layout_weight=".4"
+                    android:layout_marginLeft="25dp"
+                    android:layout_marginRight="25dp" />
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:id="@+id/exitAddMarkerLayoutButton"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true"
+                    android:src="@mipmap/x" />
+            </LinearLayout>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/editTextName"
+                android:textColorHint="#f8d93c"
+                android:hint="Name"
+                android:textColor="#f8d93c"
+
+                android:padding="10dp"
+                android:layout_below="@+id/linearLayout"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/editTextDetails"
+                android:textColorHint="#f8d93c"
+                android:textColor="#f8d93c"
+
+                android:hint="Details"
+                android:padding="10dp"
+                android:layout_below="@+id/editTextName"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+        </RelativeLayout>
+-->
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="360dp"
+        android:background="@color/morningOnTheMoor"
+        android:id="@+id/transitionAnnounce"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="85dp"
+            android:background="@color/colorPrimary"
+            android:id="@+id/announceHeader">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Maui DragonFruit Farm"
+                android:id="@+id/transitionAnnounceText"
+                android:textColor="#ffffff"
+                android:textSize="21dp"
+                android:gravity="center" />
+
+            <!--    <ImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:id="@+id/announceExitButton"
+                android:src="@mipmap/x"
+                android:paddingLeft="20dp"
+                android:paddingBottom="20dp"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true" />-->
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/announceImage"
+            android:scaleType="centerCrop"
+            android:src="@drawable/dragonfruit_farm_1"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:visibility="gone" />
+
+        <ListView
+            android:background="@color/colorPrimary"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/announceLayoutListView"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/announceHeader"
+            />
+
+    </RelativeLayout>
+
+
+
+
+
+
+
+
+    </com.sothree.slidinguppanel.SlidingUpPanelLayout>

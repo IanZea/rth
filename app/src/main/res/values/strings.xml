@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Road To Hana Guide</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="geofence_transition_invalid_type">invalid transition type</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>

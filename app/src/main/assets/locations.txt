@@ -1,0 +1,32 @@
+1#0#Hana Highway
+0#0#5#Paia#20.919757#-156.376591#6#We are about to go through the revived old plantation town of Paia.  Be sure to fill up with Gasoline here, it is the last stop for the next 52 miles.  This colorful town is an art center for island-handicrafts.  Mana foods in town is a good place to pick up local fruits, exotic dishes, and organic desserts.  You will find some of the best beaches on the highway here.  Baldwin Beach is located right before Paia and is filled with long stretches of beautiful golden sand beaches.
+0#0#10#Ho'okipa Beach#20.928476#-156.366405#7#About a quarter mile past mile marker eight you will be passing Ho'okipa Beach Park.  This is a rocky beach with high surf and strong currents.  Many profesional surfing competitions are held here, the covered pavilions provide a good breakfest location from which to watch advanced surfing.  You can also spot some seals here if you are lucky.
+0#0#15#Twin Falls#20.912613#-156.243063#2#Location of two large water falls great for swimming and short hikes.  Depending on the season there may be a gate, do your best to look as little like a tourist as possible and announce yourself as Kama'aina  (pronounced ka-ma-EYE-na) or local if questioned.
+0#0#20#Waikamoi Nature Trail#20.875472#-156.186670#9.5#Hiking loop
+0#0#25#Garden of Eden Arboretum#20.871326#-156.180067#10.5#Garden of Eden
+0#0#30#Ha’ipua’ena Falls#20.866242#-156.176043#11.5#Haipuaena falls
+0#0#35#Kaumahina State Wayside Park#20.871715#-156.169275#12.2#Kaumahina
+0#0#40#Honomanu Bay#20.858720#-156.168861#14#Honomanu pull off
+0#0#45#Ke’anae Arboretum#20.857315#-156.148890#16.6#Arboretum
+0#0#47#Turn for Ke'anae#20.858398#-156.148450#16.9#Turn for Ke'anae Peninsula
+0#0#50#Ke’anae Peninsula#20.862581#-156.144346#16.9#Ke'anae Peninsula
+0#0#55#Ke'anae Overlook#20.857417#-156.145324#17.1#Pull out for a view of Ke'anae.
+0#0#60#Wailua Valley State Wayside#20.840171#-156.139910#18#Wailua Overlook
+0#0#65#Upper Waikani Falls#20.832460#-156.138587#19#Water fall
+0#0#70#Secret Falls at Pua'a Ka'a Park#20.817161#-156.125331#22.5#Bathrooms, waterfalls with a swimming pool
+0#0#75#Makapipi Falls#20.807243#-156.096233#25#Pull over and look over the railing to see the waterfall from above
+0#0#78#Turn for Nahiku#20.807786#-156.095389#25#Turn to road for Nahiku
+0#0#80#Nahiku#20.824929#-156.091682#25#Nahiku
+0#0#83#Turn for Kahanu Garden#20.824929#-156.091682#31#Turn onto Ulaino road for Kahanu Garden
+0#0#85#Kahanu Garden#20.792620#-156.032032#31#Kahanu Garden
+0#0#89#Turn for Wai'anapanapa#20.782267#-156.008835#32#Turn onto Honokalani road for Wai'anapanapa
+0#0#90#Wai'anapanapa State Park#20.786359#-156.002849#32#Black Sand beaches, camping
+0#0#95#Hana#20.755153#-155.987817#34#Hana
+0#0#100#Hamoa Beach#20.719985#-155.988258#50#Hamoa Beach
+0#0#105#Wailua Falls#20.683347#-156.030352#45#Wailua Falls
+0#0#110#Haleakala National Park#20.660792#-156.046629#42#Haleakala National Park
+0#0#115#Bamboo Forest#20.670360#-156.053859#42#Bamboo Forest, take Pipiwai trail
+0#0#120#Seven Pools#20.663182#-156.042432#42#Pools at Ohe'o aka Seven Sacred Pools
+0#0#125#Waimoku Falls#20.678252#-156.056539#42#Waimoku Falls
+0#0#150#Mile Marker 17#20.857652#-156.146055#17#Location of mile marker 17
+0#0#15#Ke'Anae#20.863538#-156.143759#16.9#Ke‘anae is a peninsula known best for being one of Hawaii‘s major taro farm growing regions. ***Needs more info

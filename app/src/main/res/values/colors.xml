@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009098</color>
+    <color name="colorPrimaryDark">#BCCFB1</color>
+    <color name="colorAccent">#DCC761</color>
+    <color name="ladyOphelia">#F6E165</color>
+    <color name="morningOnTheMoor">#D3E6C7</color>
+    <color name="trueTeal">#009098</color>
+</resources>

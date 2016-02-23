@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mile Marker"
+        android:id="@+id/mileMarkerTV"
+        android:layout_gravity="center_horizontal"
+        android:padding="20dp"
+        android:textColor="#fff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/listItemParagraphTV"
+        android:layout_gravity="center_horizontal"
+        android:padding="15dp"
+        android:textColor="#fff" />
+
+</LinearLayout>
